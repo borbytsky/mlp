@@ -1,0 +1,24 @@
+h1{ font-size: 44px;
+    text-align: center;
+}
+
+ul li{
+    float:left;
+    padding: 5px 30px;
+    list-style-type: none;
+    border: dotted;
+}
+
+a{text-decoration: none;}
+
+.telo{
+    display: inline-block;
+    margin:15px;
+    padding: 15px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border:2px solid blue;
+    /*padding: 10px 5px;*/
+
+}
